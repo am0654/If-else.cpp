@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int num, rev=0, rem, temp;
-    cout<<"Enter the Number/word: ";
+    cout<<"Enter the Number: ";
     cin>>num;
     temp = num;
     while(temp>0)
@@ -21,7 +21,7 @@ int main()
 }
 
 Input:
-Enter the Number/word: 205262502
+Enter the Number: 205262502
   
 Output:
 It is a Palindrome
